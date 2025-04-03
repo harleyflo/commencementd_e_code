@@ -74,4 +74,4 @@ void loop() {
   }
 
   delay(100);  // Délai pour éviter de trop lire rapidement
-}
+}//comenter
