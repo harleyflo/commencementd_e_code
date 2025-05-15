@@ -1,5 +1,5 @@
 #include <I2S.h>
-
+//init ecran 
 const int frequency = 440;    //defini la frequence en Hz
 const int amplitude = 500;    //defini l'amplitude
 const int sampleRate = 8000;  //sample rate en Hz
